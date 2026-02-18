@@ -1,0 +1,18 @@
+{
+"firstname" : "Sujay",
+"lastname" : "biswas",
+"Address":[
+	{
+	"Street" : "Sakambari aavenue, mangalamappartments",
+	"city" : "Indore",
+	"postal" : 453455
+	},
+	{
+	"street" : "TigariaBadsaha",
+	"city" : "Indore",
+	"postal" : 422005
+}
+	
+	]
+
+}

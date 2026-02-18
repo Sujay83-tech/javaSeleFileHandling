@@ -1,0 +1,16 @@
+{
+  "firstname": "John",
+  "lastname": "Doe",
+  "address": [
+    {
+      "Street": " 123 Main Street",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "Street": "1-48 Oak Avenue",
+      "city": "Los Angeles",
+      "state": "CA"
+    }
+  ]
+}

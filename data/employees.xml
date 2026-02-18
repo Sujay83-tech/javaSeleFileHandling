@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company>
+    <name>Tech Solutions Inc.</name>
+    <founded>2010</founded>
+    <location>
+        <city>San Francisco</city>
+        <state>California</state>
+        <country>USA</country>
+    </location>
+    
+    <employees>
+        <employee id="E001">
+            <firstName>John</firstName>
+            <lastName>Doe</lastName>
+            <age>30</age>
+            <department>Engineering</department>
+            <position>Senior Developer</position>
+            <salary currency="USD">95000</salary>
+            <email>john.doe@techsolutions.com</email>
+            <skills>
+                <skill level="expert">Java</skill>
+                <skill level="expert">Spring Boot</skill>
+                <skill level="intermediate">Python</skill>
+                <skill level="beginner">React</skill>
+            </skills>
+            <projects>
+                <project>E-Commerce Platform</project>
+                <project>Payment Gateway Integration</project>
+            </projects>
+        </employee>
+        
+        <employee id="E002">
+            <firstName>Jane</firstName>
+            <lastName>Smith</lastName>
+            <age>28</age>
+            <department>QA</department>
+            <position>Test Automation Engineer</position>
+            <salary currency="USD">85000</salary>
+            <email>jane.smith@techsolutions.com</email>
+            <skills>
+                <skill level="expert">Selenium</skill>
+                <skill level="expert">TestNG</skill>
+                <skill level="expert">Java</skill>
+                <skill level="intermediate">Jenkins</skill>
+            </skills>
+            <projects>
+                <project>Automation Framework</project>
+                <project>API Testing Suite</project>
+            </projects>
+        </employee>
+        
+        <employee id="E003">
+            <firstName>Mike</firstName>
+            <lastName>Johnson</lastName>
+            <age>35</age>
+            <department>Engineering</department>
+            <position>Tech Lead</position>
+            <salary currency="USD">120000</salary>
+            <email>mike.johnson@techsolutions.com</email>
+            <skills>
+                <skill level="expert">Java</skill>
+                <skill level="expert">Microservices</skill>
+                <skill level="expert">AWS</skill>
+                <skill level="expert">Docker</skill>
+            </skills>
+            <projects>
+                <project>Cloud Migration</project>
+                <project>Microservices Architecture</project>
+                <project>DevOps Pipeline</project>
+            </projects>
+        </employee>
+        
+        <employee id="E004">
+            <firstName>Sarah</firstName>
+            <lastName>Williams</lastName>
+            <age>26</age>
+            <department>Design</department>
+            <position>UI/UX Designer</position>
+            <salary currency="USD">75000</salary>
+            <email>sarah.williams@techsolutions.com</email>
+            <skills>
+                <skill level="expert">Figma</skill>
+                <skill level="expert">Adobe XD</skill>
+                <skill level="intermediate">HTML/CSS</skill>
+                <skill level="beginner">JavaScript</skill>
+            </skills>
+            <projects>
+                <project>Mobile App Redesign</project>
+                <project>Design System</project>
+            </projects>
+        </employee>
+        
+        <employee id="E005">
+            <firstName>David</firstName>
+            <lastName>Brown</lastName>
+            <age>32</age>
+            <department>Engineering</department>
+            <position>DevOps Engineer</position>
+            <salary currency="USD">100000</salary>
+            <email>david.brown@techsolutions.com</email>
+            <skills>
+                <skill level="expert">Kubernetes</skill>
+                <skill level="expert">Docker</skill>
+                <skill level="expert">Jenkins</skill>
+                <skill level="intermediate">Python</skill>
+            </skills>
+            <projects>
+                <project>CI/CD Pipeline</project>
+                <project>Infrastructure Automation</project>
+            </projects>
+        </employee>
+    </employees>
+    
+    <departments>
+        <department id="D001">
+            <name>Engineering</name>
+            <headCount>3</headCount>
+            <budget>500000</budget>
+        </department>
+        <department id="D002">
+            <name>QA</name>
+            <headCount>1</headCount>
+            <budget>150000</budget>
+        </department>
+        <department id="D003">
+            <name>Design</name>
+            <headCount>1</headCount>
+            <budget>100000</budget>
+        </department>
+    </departments>
+</company>
